@@ -84,7 +84,7 @@
 - Slides: https://slides.com/sivamuthukumar/graphql-nestjs
 
 ### Flutter, Firebase & Fastlane
-> Tampa Community Connect - Tampa - October 20, 2018
+*Tampa Community Connect - Tampa - October 20, 2018*
 
 - Repo: https://github.com/ksivamuthu/flutter-conference
 - Slides: https://docs.google.com/presentation/d/1cOL2MBNwiXQap_ZG_0e9tANbTvRiaV8rBXL3WkwnOoA/edit?usp=sharing
