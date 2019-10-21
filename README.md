@@ -15,9 +15,9 @@
     - [AI Adventures with AutoML](#ai-adventures-with-automl)
     - [GraphQL & NestJS - Forget the REST](#graphql--nestjs---forget-the-rest-2)
     - [Flutter, Firebase & Fastlane (# Updated Demo)](#flutter-firebase--fastlane--updated-demo)
-    - [Azure AutoML - Automatic algorithm selecton and tuninig](#azure-automl---automatic-algorithm-selecton-and-tuninig)
+    - [Azure AutoML - Automatic algorithm selecton and tuning](#azure-automl---automatic-algorithm-selecton-and-tuning)
     - [Smart Bots for Enterprise](#smart-bots-for-enterprise)
-    - [Azure AutoML - Automatic algorithm selecton and tuninig](#azure-automl---automatic-algorithm-selecton-and-tuninig-1)
+    - [Azure AutoML - Automatic algorithm selecton and tuning](#azure-automl---automatic-algorithm-selecton-and-tuning-1)
     - [Building serverless GraphQL with AWS Amplify](#building-serverless-graphql-with-aws-amplify)
     - [Chirping Devices - Sending data over sound](#chirping-devices---sending-data-over-sound)
     - [Building high-performance IoT edge apps using Azure NodeJS SDKs](#building-high-performance-iot-edge-apps-using-azure-nodejs-sdks)
@@ -109,7 +109,7 @@
 - Repo: https://github.com/ksivamuthu/dev_emotion_tracker
 - Slides: https://slides.com/sivamuthukumar/flutter-firebase-fastlane
 
-### Azure AutoML - Automatic algorithm selecton and tuninig
+### Azure AutoML - Automatic algorithm selecton and tuning
 
 > Philly .NET Code Camp - Philadelphia - April 13, 2019
 
@@ -120,7 +120,7 @@
 
 - Slides: https://speakerdeck.com/ksivamuthu/smart-bots-for-enterprise
 
-### Azure AutoML - Automatic algorithm selecton and tuninig
+### Azure AutoML - Automatic algorithm selecton and tuning
 
 > Global Azure Boot Camp - Orlando - April 27, 2019
 
